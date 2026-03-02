@@ -25,3 +25,4 @@ graph TD
     GKE --> DB
     GKE --> Storage
     CloudAudit[Cloud Audit Logs] -.-> SecurityOps[Security Monitoring Team]
+
