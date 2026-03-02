@@ -1,9 +1,7 @@
 # zero-trust-lab-README.md
 # 🔐 Zero Trust Architecture Lab – GCP
 
-Welcome to the **Zero Trust Architecture Lab**. This lab demonstrates the implementation of a Zero Trust security model on **Google Cloud Platform (GCP)** using Identity-Aware Proxy, VPC Service Controls, IAM policies, and fine-grained access controls.
-
----
+Welcome to the **Zero Trust Architecture Lab**. This lab demonstrates the implementation of a Zero Trust security model on **Google Cloud Platform (GCP)** using Identity-Aware Proxy, VPC Service Controls, IAM policies, and fine-grained access controls
 
 ## 🎯 Objective
 
