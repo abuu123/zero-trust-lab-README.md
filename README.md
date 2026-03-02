@@ -3,15 +3,6 @@
 
 Welcome to the **Zero Trust Architecture Lab**. This lab demonstrates the implementation of a Zero Trust security model on **Google Cloud Platform (GCP)** using Identity-Aware Proxy, VPC Service Controls, IAM policies, and fine-grained access controls
 
-## 🎯 Objective
-
-- Design a Zero Trust architecture for enterprise cloud applications.
-- Enforce **least privilege access** across users, service accounts, and workloads.
-- Implement **context-aware access controls**.
-- Validate Zero Trust principles using practical scenarios.
-
----
-
 ## 🏗 Lab Architecture
 
 ```mermaid
